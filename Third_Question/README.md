@@ -21,6 +21,6 @@ Na terceira linha seguem 3 inteiros, p, m e g, que representam o tamanho de um t
 - 1≤n≤3×10^5
 - 1≤x≤10^5
 - 1≤p≤m≤g≤x
-- 
+
 ### Saída
 Baseado na descrição do problema, imprima a quantidade miníma de muralhas para parar o ataque dos titãs.
